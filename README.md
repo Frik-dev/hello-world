@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practising the GitHub Flow
+it is modified by ishimwe christian.
